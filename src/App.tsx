@@ -6,7 +6,7 @@ function App() {
     'Fransisco',
     'Tokyo',
     'London',
-    'Paris'
+    'Paris' 
   ]
   
   let handleSelectItem = (item: string) => {
